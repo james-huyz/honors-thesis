@@ -1,5 +1,5 @@
 # honors-thesis
-James Hu's planetary geoscience project for the honors bachelor of science degree, University of Chicago, 2022
+James Hu's planetary geoscience project for the degree of Bachelor of Science with Honors, Department of the Geophysical Sciences, University of Chicago, 2022
 
 ## Title of paper
 Constraining Mars obliquity in the Amazonian and Hesperian periods using elliptic crater orientations
